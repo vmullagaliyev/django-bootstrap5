@@ -1,6 +1,6 @@
 # Changelog
 
-## 22.2 (in development)
+## 22.2 (2022-11-21)
 
 - Add support for Python 3.11.
 - Added .form-label default to `<label>`s. (#180)
